@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HITL Long-Tail Eval
 
 This project is a small synthetic simulation of human-in-the-loop (HITL) evaluation. The goal is to show how an observed product metric such as human acceptance rate can diverge from true system quality, especially when performance varies across users and long-tail failure modes are present.
@@ -161,3 +162,7 @@ Right now the repo is best understood as an exploratory research notebook rather
 ## Summary
 
 The notebook demonstrates a simple but important idea: in HITL systems, observed acceptance is a joint product of model quality and human behavior. If you want to reason about long-tail risk or proxy-metric reliability, you need to model both.
+=======
+# hitl-telemetry-sim
+Simulation of human-in-the-loop system telemetry showing why acceptance rate is a proxy metric, not a direct measure of model quality.
+>>>>>>> origin/main
