@@ -34,7 +34,6 @@ That means a better acceptance rate can come from multiple causes, not all of wh
 │   ├── 01_baseline_case.ipynb
 │   ├── 02_introducing_human_ambiguity.ipynb
 │   ├── 03_introducing_ambiguous_requests.ipynb
-│   ├── archive/
 │   └── images/
 ├── src/
 │   └── hitl_telemetry_sim/
@@ -56,8 +55,6 @@ That means a better acceptance rate can come from multiple causes, not all of wh
   - introduces imperfect human review behavior
 - `notebooks/03_introducing_ambiguous_requests.ipynb`
   - introduces ambiguous or mixed request validity
-
-The `notebooks/archive/` folder contains older exploratory notebooks that are still useful for reference but are not the main entry point anymore.
 
 ## Python Package
 
